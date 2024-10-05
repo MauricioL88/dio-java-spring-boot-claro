@@ -1,0 +1,15 @@
+Comandos GIT
+
+// Acessando a branch principal
+git branch -M main
+
+// Colocando o arquivo atulizado em stage
+git add nome_do_arquivo
+
+// Commitando o arquivo
+git commit -m "texto-do-commit"
+
+// Atualizando o Github com as atualizações feitas em loco.
+git push -u origin main
+
+
