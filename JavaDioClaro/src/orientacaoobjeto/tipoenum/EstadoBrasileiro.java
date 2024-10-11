@@ -13,7 +13,7 @@ public enum EstadoBrasileiro {
     private String nome;
     private String sigla;
     
-    // Construtor privado para associar os dados de forma imediata aos métodos
+    // Construtor privado para associar os dados de forma imediata aos métodos acessores
     private EstadoBrasileiro(String sigla, String nome) {
         this.nome = nome;
         this.sigla = sigla;

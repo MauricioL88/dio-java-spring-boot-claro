@@ -42,7 +42,7 @@
     - saida:
         Combo Completo
  */
-package desafiodecodigo.dois;
+package desafios.codigo.dois;
 
 import java.util.Scanner;
 

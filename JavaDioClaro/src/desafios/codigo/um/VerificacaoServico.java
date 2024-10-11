@@ -43,7 +43,7 @@
         Sim
 */
 
-package desafiodecodigo.um;
+package desafios.codigo.um;
 
 import java.util.Scanner;
 
